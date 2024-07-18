@@ -1,4 +1,4 @@
-# 이미지 레이지 로드 (Image lazy load)
+# 이미지 레이지 로드 (Image lazy load)
 
 ## 개념
 
